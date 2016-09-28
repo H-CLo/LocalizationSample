@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  LocalizationSample
+
+  Created by HungCLo on 9/28/16.
+  Copyright © 2016 HungCLo. All rights reserved.
+*/
+
+Country   = "國家";
+Fruit     = "水果";
+Taiwan    = "臺灣";
+American  = "美國";
+Australia = "澳洲";
+Apple     = "蘋果";
+Lemon     = "檸檬";
+Banana    = "香蕉";
